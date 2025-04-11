@@ -4,6 +4,13 @@
 
 This project is a Solana trading bot designed to automate trading activities on the Solana blockchain. The bot integrates with the Telegram messaging platform to receive trade signals and execute trades using the Trojan Solana Bot (https://trojan.com/). It leverages real-time market data, such as OHLCV (Open, High, Low, Close, Volume), and applies custom trading logic to identify and act on trading opportunities. The bot stores data in a MongoDB database and uses environment variables for secure configuration.
 
+## Trade Screenshots
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="sol_bot_trades_1.png" alt="Trade Screenshot 1" width="600">
+  <img src="sol_bot_trades_2.png" alt="Trade Screenshot 2" width="600">
+  <img src="sol_bot_trades_3.png" alt="Trade Screenshot 3" width="600">
+</div>
+
 ## File: `telegram_bot.js`
 
 ### Purpose
