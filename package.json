@@ -1,0 +1,29 @@
+{
+  "name": "dip_bot_sol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "async-mutex": "^0.5.0",
+    "axios": "^1.7.7",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "input": "^1.0.1",
+    "json2csv": "^6.0.0-alpha.2",
+    "luxon": "^3.5.0",
+    "moment": "^2.30.1",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "node-cron": "^3.0.3",
+    "puppeteer": "^23.3.0",
+    "telegram": "^2.22.2"
+  }
+}
